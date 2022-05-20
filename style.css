@@ -1,0 +1,58 @@
+.centralizar{
+    text-align: center;
+    image-orientation: center;
+}
+
+.listas{
+    background-color: blue;
+}
+
+.barra{
+    background-color: 	#ffc755
+}
+
+.allways{
+    background-size: 500px 50px;
+    background-color: #ffc755;  
+    font-family: Impact;
+    border-radius: 5px;
+    display: grid;
+    place-content: center;
+}
+.centraliza-img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto 
+}
+.back{
+    width: 10000px; height: 500px;
+    background-image: url("img/rodape.jpg");
+    background-repeat: no-repeat; 
+    border-radius: 20px;  
+}
+.t1{
+    font-family: Stencil Std, fantasy;
+}
+.t2{
+    color: white;
+    font-size: 50px;
+    font-family: Stencil Std, fantasy;
+    text-align: left;
+}
+
+.t3{
+    color: white;
+    text-align: left;
+}
+
+.t4{
+    font-family: Stencil Std, fantasy;
+    font-size: 50px;
+    font-style: normal;
+
+}
+.t5{
+    font-family: Stencil Std, fantasy;
+    font-size: 25px;
+
+}
